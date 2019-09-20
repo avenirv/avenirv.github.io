@@ -609,11 +609,11 @@ table {
 .portfolio-title__buttons a {
   padding: 10px 15px;
   background: 0 0;
-  border: 2px solid #cc7878;
+  border: 3px solid #cc7878;
   border-radius: 3px;
   margin: 0 5px;
   color: #cc7878;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: uppercase;
   transition: all 0.3s ease;
   text-decoration: none;
@@ -845,7 +845,7 @@ table {
   color: #fafafa;
   font-family: 'raleway_bold';
   position: relative;
-  animation: fadeDowm 2s;
+  animation: fadeDowm 1.5s;
   font-size: 40px;
   border: 3px solid #fafafa;
   background-color: rgba(21, 47, 74, 0.5);
@@ -856,7 +856,7 @@ table {
   padding-top: 20px;
   color: #fafafa;
   position: relative;
-  animation: fadeInUp 3s;
+  animation: fadeInUp 2s;
   font-size: 15px;
 }
 @keyframes fadeInUp {
